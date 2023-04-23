@@ -1,0 +1,11 @@
+img{
+    height: 300px;
+    width: 500px;
+    object-fit: contain;
+}
+.navbar{
+    background-color:forestgreen;
+}
+section{
+    background-color:forestgreen;
+}

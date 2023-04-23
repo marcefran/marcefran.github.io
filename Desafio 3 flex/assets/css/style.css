@@ -1,0 +1,48 @@
+body{
+    background-color:lightgreen;
+    color:black;
+}
+header{
+    color:black; 
+    margin-left: 46%;
+    font-size: 40px;
+}
+
+.principal{
+    display: flex;
+    justify-content: center;
+    opacity: 90%;
+}
+.info{
+    display: flex;
+    justify-content: space-around;
+font-size: 15px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.iconos{
+    background-color: forestgreen;
+    color: bisque;
+    justify-content: center;
+}
+h3{
+    font-size: 35px;
+    margin-left: 40%;
+}
+
+.separacion{
+    display:flex;
+    justify-content: space-around;
+    text-align: center;
+    
+}
+menu{
+    display:flex;
+    justify-content: space-evenly;
+    font-size: 50%;
+}
+footer{
+    background-color: forestgreen;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
