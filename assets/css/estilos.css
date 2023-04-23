@@ -5,11 +5,22 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/catedral\ de\ marmol.jpg");
+  background-image: url("../img/foto\ de\ portada.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
 }
+/* fotos */
+.navbar img{ 
+  width: 35px;
+  height: 32px;
+}
+img{
+  height: 300px;
+  width: 500px;
+  object-fit: contain;
+}
+
 
 /* Mis trabajos */
 
